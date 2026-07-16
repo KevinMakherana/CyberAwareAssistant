@@ -96,4 +96,4 @@ Future improvements could include a GUI version or database integration.
 
 ## Author
 
-Kevin Makherana
+Phathutshedzo Kevin Makherana
