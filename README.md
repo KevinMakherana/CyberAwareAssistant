@@ -1,7 +1,7 @@
 # CyberAware Assistant 🛡️
 
-CyberAware Assistant is a simple cybersecurity awareness and training tool built in C#.  
-It’s designed to simulate basic SOC-style onboarding where users can learn cybersecurity concepts, take quizzes, and log security incidents.
+CyberAware Assistant is a simple cybersecurity awareness and training tool built in C#.
+It's designed to simulate basic SOC-style onboarding where users can learn cybersecurity concepts, take quizzes, and log security incidents.
 
 I built this as a portfolio project to show my understanding of C#, OOP, and basic cybersecurity principles.
 
@@ -10,7 +10,6 @@ I built this as a portfolio project to show my understanding of C#, OOP, and bas
 ## What it does
 
 The application runs in the console and lets a user:
-
 - Learn basic cybersecurity topics like phishing, ransomware, MFA, etc.
 - Take a short security quiz and get a score
 - View random security tips
@@ -58,7 +57,6 @@ Basic explanations of common security concepts like:
 ---
 
 ## Tech Used
-
 - C#
 - .NET Console Application
 - Object-Oriented Programming
@@ -74,23 +72,29 @@ I wanted to create something that combines:
 - Cybersecurity awareness
 - Basic SOC-style thinking
 
-It’s not a full production system, but more of a learning and demonstration project.
+It's not a full production system, but more of a learning and demonstration project.
 
 ---
 
 ## How to run it
 
 1. Clone the repo
-2. Open the solution in Visual Studio
+2. Open `CyberAwareAssistant.slnx` in Visual Studio 2022 (17.13+) or Visual Studio 2026
 3. Build the project
 4. Run the program
 
 ---
 
-## Notes
+## Future Improvements
+- A GUI version (WinForms or WPF) instead of a console interface
+- Persisting quiz scores and incident reports to a database instead of a session-only log
+- Expanded topic library and a larger quiz question bank
 
-This project is still a work in progress.  
-Future improvements could include a GUI version or database integration.
+---
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
